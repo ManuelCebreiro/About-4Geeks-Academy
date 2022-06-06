@@ -1,0 +1,59 @@
+template: "online-cv"
+skin: "ceramic"
+
+basic_info:
+
+    first_name: Manuel
+    last_name: Cebreiro
+    motto: I learn to learn
+   
+    summary: |
+        I am someone who loves everything in the world of informatics and technology, specially in web developing.
+        Not only am I flexible when it comes to learning new things, but I am also excited to do so. I like to learn
+        things by myself or with a team, and I'm looking forward to learning the metholodologies of other people when
+        it comes to problem solving and any area.
+
+    email: cebreirom@gmail.com
+    phone: 638 514 511
+    linkedin: https://www.linkedin.com/in/manuelcebreiro/
+    github: ManuelCebreiro
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English 
+        level: Basic
+
+    interests:
+      - item: Coding
+
+      - item: Gaming
+
+      - item: Cooking
+
+education:
+   
+    - degree: Full-Stack Web Developer
+      university: 4Geeks Academy
+      time: Currently
+      details: Here I learned how to make web pages from the Front to the Back-end.
+      
+projects:
+    intro: >
+      Here are some of the projects I made at the 4Geeks Academy, as well as a project I added to my webpage porftfolio (Super Merch).
+    
+
+skills:
+    toolset:
+      - name: Bootstrap
+        level: 70%
+
+      - name: Javascript
+        level: 65%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: React
+        level: 40%
